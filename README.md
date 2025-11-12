@@ -60,6 +60,7 @@ TF-IDF vektörleştirme + Logistic Regression kullanır. Ayrıca Streamlit ile e
 
 
 ## Dosya Yapısı
+```bash
 clickbait-classifier/
 │
 ├─ src/
