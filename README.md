@@ -74,7 +74,7 @@ clickbait-classifier/
 ├─ requirements.txt        → Gerekli kütüphaneler
 ├─ .gitignore
 └─ README.md
-
+```
 
 ## Model Detayları
     Vectorizer: TF-IDF (max_features=5000, stop_words='english')
